@@ -2,3 +2,4 @@ output/*.nc
 output/*.dcd
 output/.ipynb_checkpoints
 .idea
+.DS_Store
