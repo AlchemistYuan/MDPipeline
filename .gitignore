@@ -1,0 +1,4 @@
+output/*.nc
+output/*.dcd
+output/.ipynb_checkpoints
+.idea
