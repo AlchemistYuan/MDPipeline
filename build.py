@@ -17,7 +17,7 @@ from parmed.tools.actions import changeRadii
 
 """
 This script builds an OpenMM-ready system given a PDB ID.
-It adds missing atoms and hydrogens, assigns AMBER ff14SB + OL15
+It adds missing atoms and hydrogens, assigns AMBER
 parameters for macromolecules (e.g. RNA/DNA or protein) and GAFF2 for ligands.
 It then solvates the system by adding water and neutralizes the system
 by adding ions.
